@@ -12,4 +12,4 @@
 
 
 ### :fire: My Stats :
-# https://github-readme-streak-stats.herokuapp.com/?user=qwavy
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=qwavy)](https://git.io/streak-stats)
